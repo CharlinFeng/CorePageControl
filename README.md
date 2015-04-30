@@ -4,12 +4,17 @@
 
     Charlin出框架的目标：简单、易用、实用、高度封装、绝对解耦！
 
+<br /><br />
+
 #### CorePageControl
 高度自定义的pageControl！<br />
 
+<br /><br />
 
 #### 框架特性：<br />
 >.自定义pageControl，可以自定义很多属性.<br />
+
+<br /><br />
 
 #### 框架依赖：<br />
 >.CoreExtend.<br />
